@@ -1,4 +1,4 @@
-# king's cupcakes
+# King's Cupcakes 
 
 <img src="intro.gif" >
 
