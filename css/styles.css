@@ -1,0 +1,122 @@
+
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  margin: 0;
+  background-color: antiquewhite;
+}
+
+.carousel-item {
+  background-color: gray;
+  height: 400px;
+  background-size: cover;
+  text-align: center;
+}
+
+.carousel-item.item1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/cupcake2.jpg);
+  background-position: bottom right;
+}
+
+.carousel-item.item2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/Halloween.jpg);
+  background-position: center;
+}
+
+.carousel-item.item3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/cupcake3.png);
+  background-position: center;
+}
+
+.intro h2 {
+  font-size: 32px;
+  color: white;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.intro h3 {
+  font-size: 22px;
+  color: white;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 48px;
+}
+
+.intro a {
+  background-color: #5900e7;
+  border-radius: 2px;
+  padding: 10px 30px;
+  color: white;
+  font-weight: 300;
+}
+
+.title {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.intro {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.cupcake {
+  display: block;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 15);
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: rgb(74, 74, 74);
+}
+
+.cupcake .info {
+  padding: 10px;
+  background-color: bisque;
+}
+
+.cupcake .info h4 {
+  font-size: 18px;
+  color: #4a4a4a;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.cupcake .info p {
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
+.cupcake .info .cupcake {
+  vertical-align: middle;
+}
+
+.container {
+  margin: 50px auto;
+}
+
+.navbar-brand {
+  color: #f8e4fd;
+}
+
+.nav-change {
+  color: #908892;
+}
+
+#price {
+  padding: 30px;
+  background-color: #f8e4fd;
+}
+
+.price-table {
+  padding: 30px 5%;
+}
+
+.footer {
+  color: #f8e4fd;
+  font-size: 17px;
+  padding: 15px;
+}
+
+.
